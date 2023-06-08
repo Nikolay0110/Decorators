@@ -1,3 +1,5 @@
-{'time': datetime.datetime(2023, 6, 8, 17, 56, 5, 880509), 'name_function': 'flat_generator', 'arguments': {'args': ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), 'kwargs': {}}, 'return_values': <generator object flat_generator at 0x000001CD8F794740>}
-{'time': datetime.datetime(2023, 6, 8, 17, 56, 5, 900351), 'name_function': 'flat_generator', 'arguments': {'args': ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), 'kwargs': {}}, 'return_values': <generator object flat_generator at 0x000001CD8F794740>}
-{'time': datetime.datetime(2023, 6, 8, 17, 56, 5, 900351), 'name_function': 'flat_generator', 'arguments': {'args': ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), 'kwargs': {}}, 'return_values': <generator object flat_generator at 0x000001CD8F794740>}
+{'time': datetime.datetime(2023, 6, 8, 18, 5, 38, 66254), 'name_function': 'hello_world', 'arguments': {'args': (), 'kwargs': {}}, 'return_values': 'Hello World'}
+{'time': datetime.datetime(2023, 6, 8, 18, 5, 38, 66254), 'name_function': 'summator', 'arguments': {'args': (2, 2), 'kwargs': {}}, 'return_values': 4}
+{'time': datetime.datetime(2023, 6, 8, 18, 5, 38, 66254), 'name_function': 'div', 'arguments': {'args': (6, 2), 'kwargs': {}}, 'return_values': 3.0}
+{'time': datetime.datetime(2023, 6, 8, 18, 5, 38, 66254), 'name_function': 'summator', 'arguments': {'args': (4.3,), 'kwargs': {'b': 2.2}}, 'return_values': 6.5}
+{'time': datetime.datetime(2023, 6, 8, 18, 5, 38, 66254), 'name_function': 'summator', 'arguments': {'args': (), 'kwargs': {'a': 0, 'b': 0}}, 'return_values': 0}
